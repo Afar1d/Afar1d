@@ -9,12 +9,12 @@
 
 ### Connect with me:
 
+[<img align="left" alt="gmai" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:ahmedmfarid339@gmail.com)
 
-[<img align="left" alt="YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCxbWGlaXNEs-rOiCvLwrR8Q)
 [<img align="left" alt="facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100006316690963)
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ahmed-m-farid-728221212/)
 [<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/a_far1d/)
-
+[<img align="left" alt="YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCxbWGlaXNEs-rOiCvLwrR8Q)
 <br />
 
 ### Languages and Tools:
