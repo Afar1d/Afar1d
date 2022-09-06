@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Ahmed M. Farid 👋
 ## I am a software engineer, always happy to learn new things.
-- 📚 Studying at the Faculty of Computer and Information Sciences - ASU year 2.
+- 📚 Studying Scientific Computing at the Faculty of Computer and Information Sciences - ASU year 4.
 - 🌱 I’m currently learning everything 🤣
 - 📌 Lives in Cairo, Egypt.
 
